@@ -1,2 +1,1 @@
-Icons:
-		Font Awesome (fontawesome.io)
+ARCHIVED - NEW WEBSITE IN DEVELOPMENT
