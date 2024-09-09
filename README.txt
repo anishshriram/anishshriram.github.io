@@ -7,3 +7,5 @@ Open source template inlcludes:
 -Owl Carousel
 -FlexSlider
 -jQuery v2.1.4
+
+Template Link: https://technext.github.io/jackson/
